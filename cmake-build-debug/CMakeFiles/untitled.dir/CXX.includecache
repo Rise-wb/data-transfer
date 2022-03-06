@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/18867/Desktop/wb/chong/untitled/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+hash_map
+-
+unordered_map
+-
+
